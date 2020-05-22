@@ -1,0 +1,40 @@
+.main-text{
+  line-height: 0.75;
+}
+
+h1.text-light{
+  font-family: $font__sans;
+  color: $color__font_body;
+  font-weight: 100;
+  font-size: 34px;
+  }
+
+h1.text-bold{
+  font-family: $font__sans;
+  color: $color__font_body;
+  font-weight: 400;
+  font-size: 34px;
+  }  
+
+.second-text {
+  font-family: $font__sans;
+  color: $color__font_body;
+  font-size: 13px;
+}
+
+.inquiry a {
+  font-family: $font__sans;
+  color: $color__main;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.info {
+  font-family: $font__sans;
+  color: $color__font_footer;
+  font-size: 12px;
+}
+
+li{
+  list-style: none;
+}

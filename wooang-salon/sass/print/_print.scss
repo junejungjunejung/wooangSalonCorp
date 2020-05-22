@@ -1,0 +1,15 @@
+@media print {
+  p {
+    font-size: 11pt;
+    line-height: 12pt;
+  }
+  
+  .ad {
+    display: none;
+  }
+
+  body {
+    max-width: 10in;
+    margin: .125in;
+  }
+  }
